@@ -1,8 +1,8 @@
 # Modèle Logique ROR dérivant du MOS
 
-[![Build Status](https://github.com/nriss/test-ml-ror/actions/workflows/fhir-workflows.yml/badge.svg)](https://github.com/nriss/test-ml-ror/actions)
+[![Build Status](https://github.com/ansforge/interop-IG-modele-objets-sante/actions/workflows/fhir-workflows.yml/badge.svg)](https://github.com/ansforge/interop-IG-modele-objets-sante/actions)
 
-**Preview CI :** https://nriss.github.io/test-ml-ror/main/ig
+**Preview CI :** https://github.com/ansforge/interop-IG-modele-objets-sante/main/ig
 
 
 ## Dépendances
