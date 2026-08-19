@@ -1,8 +1,8 @@
 # Modèle Logique ROR dérivant du MOS
 
-[![Build Status](https://github.com/ansforge/interop-IG-modele-objets-sante/actions/workflows/fhir-workflows.yml/badge.svg)](https://github.com/ansforge/interop-IG-modele-objets-sante/actions)
+[![Build Status](https://github.com/ansforge/ROR-modelemetier-ig/actions/workflows/fhir-workflows.yml/badge.svg)](https://github.com/ansforge/ROR-modelemetier-ig/actions)
 
-**Preview CI :** https://github.com/ansforge/interop-IG-modele-objets-sante/main/ig
+**Preview CI :** https://github.com/ansforge/ROR-modelemetier-ig/main/ig
 
 
 ## Dépendances
