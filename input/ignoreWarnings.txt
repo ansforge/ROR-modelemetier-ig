@@ -1,0 +1,7 @@
+== Suppressed Messages ==
+
+# Add warning and/or information messages here after you've confirmed that they aren't really a problem
+# instructions for ignoreWarnings.txt https://confluence.hl7.org/pages/viewpage.action?pageId=66938614#ImplementationGuideParameters-ManagingWarningsandHints
+
+# IG vide en phase d'initialisation — aucune ressource de conformité attendue sur main avant merge de la PR
+ImplementationGuide.definition.resource: minimum required = 1, but only found 0
