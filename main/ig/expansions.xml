@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <Bundle xmlns="http://hl7.org/fhir">
-  <id value="9994fd52-8a26-49a7-bf73-44c4fed08fd8"/>
+  <id value="e90bb15c-5f0b-4389-ac91-3ba8f1623f29"/>
   <meta>
-    <lastUpdated value="2026-08-19T08:27:13.199+00:00"/>
+    <lastUpdated value="2026-08-19T08:37:25.694+00:00"/>
   </meta>
   <type value="collection"/>
   <entry>
@@ -168,7 +168,7 @@
         <title value="JDV ROR - Accessibilité Lieu (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -177,8 +177,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:58e171f5-1c7c-4cc9-af16-332cb3c21cd6"/>
-          <timestamp value="2026-08-19T08:28:51+00:00"/>
+          <identifier value="urn:uuid:73fad9e4-fc5d-4b79-8e52-cb6e60be426c"/>
+          <timestamp value="2026-08-19T08:38:32+00:00"/>
           <total value="6"/>
           <offset value="0"/>
           <parameter>
@@ -395,7 +395,7 @@
         <title value="JDV ROR - Accessibilité Lieu (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -404,8 +404,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:58e171f5-1c7c-4cc9-af16-332cb3c21cd6"/>
-          <timestamp value="2026-08-19T08:28:51+00:00"/>
+          <identifier value="urn:uuid:73fad9e4-fc5d-4b79-8e52-cb6e60be426c"/>
+          <timestamp value="2026-08-19T08:38:32+00:00"/>
           <total value="6"/>
           <offset value="0"/>
           <parameter>
@@ -22510,7 +22510,7 @@
         <title value="JDV ROR - Acte Spécifique (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -22519,8 +22519,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:99c8eed8-b5c5-4ab2-8ca8-2d68eeb2fa5a"/>
-          <timestamp value="2026-08-19T08:28:51+00:00"/>
+          <identifier value="urn:uuid:ba0af254-a0fc-4c5c-9f53-1a9993054cf5"/>
+          <timestamp value="2026-08-19T08:38:32+00:00"/>
           <total value="1537"/>
           <offset value="0"/>
           <parameter>
@@ -50932,7 +50932,7 @@
         <title value="JDV ROR - Acte Spécifique (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -50941,8 +50941,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:99c8eed8-b5c5-4ab2-8ca8-2d68eeb2fa5a"/>
-          <timestamp value="2026-08-19T08:28:51+00:00"/>
+          <identifier value="urn:uuid:ba0af254-a0fc-4c5c-9f53-1a9993054cf5"/>
+          <timestamp value="2026-08-19T08:38:32+00:00"/>
           <total value="1537"/>
           <offset value="0"/>
           <parameter>
@@ -70378,7 +70378,7 @@
         <title value="JDV ROR - Activité Opérationnelle (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -70387,8 +70387,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:4054a5b2-ee6b-4351-9084-c2b46f774b9e"/>
-          <timestamp value="2026-08-19T08:28:51+00:00"/>
+          <identifier value="urn:uuid:c729764f-b8f0-4c87-a46e-8fabf8dcd211"/>
+          <timestamp value="2026-08-19T08:38:33+00:00"/>
           <total value="592"/>
           <offset value="0"/>
           <parameter>
@@ -86222,7 +86222,7 @@
         <title value="JDV ROR - Activité Opérationnelle (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -86231,8 +86231,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:4054a5b2-ee6b-4351-9084-c2b46f774b9e"/>
-          <timestamp value="2026-08-19T08:28:51+00:00"/>
+          <identifier value="urn:uuid:c729764f-b8f0-4c87-a46e-8fabf8dcd211"/>
+          <timestamp value="2026-08-19T08:38:33+00:00"/>
           <total value="592"/>
           <offset value="0"/>
           <parameter>
@@ -89094,7 +89094,7 @@
         <title value="JDV ROR - Affectation Temporaire (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -89103,8 +89103,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:1b3f6ad9-e248-4d39-ba43-cb83d22463f3"/>
-          <timestamp value="2026-08-19T08:28:52+00:00"/>
+          <identifier value="urn:uuid:508a569b-13e2-4303-8860-405e1ed0d254"/>
+          <timestamp value="2026-08-19T08:38:33+00:00"/>
           <total value="3"/>
           <offset value="0"/>
           <parameter>
@@ -89245,7 +89245,7 @@
         <title value="JDV ROR - Affectation Temporaire (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -89254,8 +89254,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:1b3f6ad9-e248-4d39-ba43-cb83d22463f3"/>
-          <timestamp value="2026-08-19T08:28:52+00:00"/>
+          <identifier value="urn:uuid:508a569b-13e2-4303-8860-405e1ed0d254"/>
+          <timestamp value="2026-08-19T08:38:33+00:00"/>
           <total value="3"/>
           <offset value="0"/>
           <parameter>
@@ -89436,7 +89436,7 @@
         <title value="JDV ROR - Agrégat Statut Juridique Niv2 (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -89445,8 +89445,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:1bcbe4a0-5d7a-4d72-b5ce-70b9253b0558"/>
-          <timestamp value="2026-08-19T08:28:52+00:00"/>
+          <identifier value="urn:uuid:a28ed9bd-094b-4efa-b41a-896769c0b4f7"/>
+          <timestamp value="2026-08-19T08:38:33+00:00"/>
           <total value="5"/>
           <offset value="0"/>
           <parameter>
@@ -89639,7 +89639,7 @@
         <title value="JDV ROR - Agrégat Statut Juridique Niv2 (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -89648,8 +89648,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:1bcbe4a0-5d7a-4d72-b5ce-70b9253b0558"/>
-          <timestamp value="2026-08-19T08:28:52+00:00"/>
+          <identifier value="urn:uuid:a28ed9bd-094b-4efa-b41a-896769c0b4f7"/>
+          <timestamp value="2026-08-19T08:38:33+00:00"/>
           <total value="5"/>
           <offset value="0"/>
           <parameter>
@@ -89802,7 +89802,7 @@
         <title value="JDV ROR - Aide Financière (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -89811,8 +89811,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:918498eb-e1ca-4541-9d5a-612d30b39333"/>
-          <timestamp value="2026-08-19T08:28:52+00:00"/>
+          <identifier value="urn:uuid:aba83fc3-3387-4ef5-aee3-4f708208ef4e"/>
+          <timestamp value="2026-08-19T08:38:33+00:00"/>
           <total value="3"/>
           <offset value="0"/>
           <parameter>
@@ -89955,7 +89955,7 @@
         <title value="JDV ROR - Aide Financière (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -89964,8 +89964,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:918498eb-e1ca-4541-9d5a-612d30b39333"/>
-          <timestamp value="2026-08-19T08:28:52+00:00"/>
+          <identifier value="urn:uuid:aba83fc3-3387-4ef5-aee3-4f708208ef4e"/>
+          <timestamp value="2026-08-19T08:38:33+00:00"/>
           <total value="3"/>
           <offset value="0"/>
           <parameter>
@@ -90368,7 +90368,7 @@
         <title value="JDV ROR - Capacité de Savoir-Faire (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -90377,8 +90377,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:58e40ff7-5984-4bfa-b64b-8ffc8ee99d6b"/>
-          <timestamp value="2026-08-19T08:28:52+00:00"/>
+          <identifier value="urn:uuid:a28b455f-39a5-4c57-83eb-1811a0ba8c86"/>
+          <timestamp value="2026-08-19T08:38:33+00:00"/>
           <total value="16"/>
           <offset value="0"/>
           <parameter>
@@ -90847,7 +90847,7 @@
         <title value="JDV ROR - Capacité de Savoir-Faire (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -90856,8 +90856,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:58e40ff7-5984-4bfa-b64b-8ffc8ee99d6b"/>
-          <timestamp value="2026-08-19T08:28:52+00:00"/>
+          <identifier value="urn:uuid:a28b455f-39a5-4c57-83eb-1811a0ba8c86"/>
+          <timestamp value="2026-08-19T08:38:33+00:00"/>
           <total value="16"/>
           <offset value="0"/>
           <parameter>
@@ -91106,7 +91106,7 @@
         <title value="JDV ROR - Champ d'Activité (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -91115,8 +91115,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:2e530530-8222-4059-af4d-daf2f43bca28"/>
-          <timestamp value="2026-08-19T08:28:52+00:00"/>
+          <identifier value="urn:uuid:845d09bc-625e-4787-b511-8a34abd819d5"/>
+          <timestamp value="2026-08-19T08:38:33+00:00"/>
           <total value="5"/>
           <offset value="0"/>
           <parameter>
@@ -91309,7 +91309,7 @@
         <title value="JDV ROR - Champ d'Activité (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -91318,8 +91318,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:2e530530-8222-4059-af4d-daf2f43bca28"/>
-          <timestamp value="2026-08-19T08:28:52+00:00"/>
+          <identifier value="urn:uuid:845d09bc-625e-4787-b511-8a34abd819d5"/>
+          <timestamp value="2026-08-19T08:38:33+00:00"/>
           <total value="5"/>
           <offset value="0"/>
           <parameter>
@@ -91532,7 +91532,7 @@
         <title value="JDV ROR - Civilité d'Exercice (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -91541,8 +91541,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:66398394-27f3-4770-a1a5-c9b45f4b99ae"/>
-          <timestamp value="2026-08-19T08:28:52+00:00"/>
+          <identifier value="urn:uuid:6b956bd5-a47a-425e-945c-fe52225bd2ed"/>
+          <timestamp value="2026-08-19T08:38:33+00:00"/>
           <total value="6"/>
           <offset value="0"/>
           <parameter>
@@ -91755,7 +91755,7 @@
         <title value="JDV ROR - Civilité d'Exercice (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -91764,8 +91764,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:66398394-27f3-4770-a1a5-c9b45f4b99ae"/>
-          <timestamp value="2026-08-19T08:28:52+00:00"/>
+          <identifier value="urn:uuid:6b956bd5-a47a-425e-945c-fe52225bd2ed"/>
+          <timestamp value="2026-08-19T08:38:33+00:00"/>
           <total value="6"/>
           <offset value="0"/>
           <parameter>
@@ -91918,7 +91918,7 @@
         <title value="JDV ROR - Civilité (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -91927,8 +91927,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:40ab10a6-3b48-453e-9a87-4c7043a116bb"/>
-          <timestamp value="2026-08-19T08:28:52+00:00"/>
+          <identifier value="urn:uuid:27790758-262d-410c-ac2c-74b6a30f23c5"/>
+          <timestamp value="2026-08-19T08:38:33+00:00"/>
           <total value="3"/>
           <offset value="0"/>
           <parameter>
@@ -92069,7 +92069,7 @@
         <title value="JDV ROR - Civilité (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -92078,8 +92078,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:40ab10a6-3b48-453e-9a87-4c7043a116bb"/>
-          <timestamp value="2026-08-19T08:28:52+00:00"/>
+          <identifier value="urn:uuid:27790758-262d-410c-ac2c-74b6a30f23c5"/>
+          <timestamp value="2026-08-19T08:38:33+00:00"/>
           <total value="3"/>
           <offset value="0"/>
           <parameter>
@@ -92240,7 +92240,7 @@
         <title value="JDV ROR - Compétence Exclusive (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -92249,8 +92249,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:b5f6818f-990c-4446-86f2-9f2187cf4c97"/>
-          <timestamp value="2026-08-19T08:28:52+00:00"/>
+          <identifier value="urn:uuid:ae5e6be3-eb73-476e-9480-06d84043dfae"/>
+          <timestamp value="2026-08-19T08:38:33+00:00"/>
           <total value="4"/>
           <offset value="0"/>
           <parameter>
@@ -92419,7 +92419,7 @@
         <title value="JDV ROR - Compétence Exclusive (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -92428,8 +92428,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:b5f6818f-990c-4446-86f2-9f2187cf4c97"/>
-          <timestamp value="2026-08-19T08:28:52+00:00"/>
+          <identifier value="urn:uuid:ae5e6be3-eb73-476e-9480-06d84043dfae"/>
+          <timestamp value="2026-08-19T08:38:33+00:00"/>
           <total value="4"/>
           <offset value="0"/>
           <parameter>
@@ -93738,7 +93738,7 @@
         <title value="JDV ROR - Compétence Spécifique (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -93747,8 +93747,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:1caac2d9-0bde-4560-bd14-0a2819ea62ae"/>
-          <timestamp value="2026-08-19T08:28:52+00:00"/>
+          <identifier value="urn:uuid:6923d43e-4a30-414f-8ac1-acde56d82dd8"/>
+          <timestamp value="2026-08-19T08:38:33+00:00"/>
           <total value="61"/>
           <offset value="0"/>
           <parameter>
@@ -95308,7 +95308,7 @@
         <title value="JDV ROR - Compétence Spécifique (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -95317,8 +95317,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:1caac2d9-0bde-4560-bd14-0a2819ea62ae"/>
-          <timestamp value="2026-08-19T08:28:52+00:00"/>
+          <identifier value="urn:uuid:6923d43e-4a30-414f-8ac1-acde56d82dd8"/>
+          <timestamp value="2026-08-19T08:38:33+00:00"/>
           <total value="61"/>
           <offset value="0"/>
           <parameter>
@@ -96518,7 +96518,7 @@
         <title value="JDV ROR - Compétence (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -96527,8 +96527,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:59c06564-86db-4c30-96dc-8c5d9ca97dc5"/>
-          <timestamp value="2026-08-19T08:28:52+00:00"/>
+          <identifier value="urn:uuid:276f1a93-93d7-43b4-85b5-e9a5de5c0aec"/>
+          <timestamp value="2026-08-19T08:38:34+00:00"/>
           <total value="43"/>
           <offset value="0"/>
           <parameter>
@@ -97672,7 +97672,7 @@
         <title value="JDV ROR - Compétence (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -97681,8 +97681,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:59c06564-86db-4c30-96dc-8c5d9ca97dc5"/>
-          <timestamp value="2026-08-19T08:28:52+00:00"/>
+          <identifier value="urn:uuid:276f1a93-93d7-43b4-85b5-e9a5de5c0aec"/>
+          <timestamp value="2026-08-19T08:38:34+00:00"/>
           <total value="43"/>
           <offset value="0"/>
           <parameter>
@@ -98026,7 +98026,7 @@
         <title value="JDV ROR - Condition Tarifaire (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -98035,8 +98035,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:e8d21ae9-6cde-4548-8736-070edb33e883"/>
-          <timestamp value="2026-08-19T08:28:52+00:00"/>
+          <identifier value="urn:uuid:ce45d65f-7a52-4ba0-9ac6-c4f42cf70e81"/>
+          <timestamp value="2026-08-19T08:38:34+00:00"/>
           <total value="3"/>
           <offset value="0"/>
           <parameter>
@@ -98177,7 +98177,7 @@
         <title value="JDV ROR - Condition Tarifaire (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -98186,8 +98186,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:e8d21ae9-6cde-4548-8736-070edb33e883"/>
-          <timestamp value="2026-08-19T08:28:52+00:00"/>
+          <identifier value="urn:uuid:ce45d65f-7a52-4ba0-9ac6-c4f42cf70e81"/>
+          <timestamp value="2026-08-19T08:38:34+00:00"/>
           <total value="3"/>
           <offset value="0"/>
           <parameter>
@@ -99088,7 +99088,7 @@
         <title value="JDV ROR - DESC Non Qualifiant (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -99097,8 +99097,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:49ba714c-acf5-456e-8a25-ae93c26f0ce0"/>
-          <timestamp value="2026-08-19T08:28:52+00:00"/>
+          <identifier value="urn:uuid:453f3062-258e-4b30-a9e2-142f92ea50ec"/>
+          <timestamp value="2026-08-19T08:38:34+00:00"/>
           <total value="41"/>
           <offset value="0"/>
           <parameter>
@@ -100192,7 +100192,7 @@
         <title value="JDV ROR - DESC Non Qualifiant (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -100201,8 +100201,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:49ba714c-acf5-456e-8a25-ae93c26f0ce0"/>
-          <timestamp value="2026-08-19T08:28:52+00:00"/>
+          <identifier value="urn:uuid:453f3062-258e-4b30-a9e2-142f92ea50ec"/>
+          <timestamp value="2026-08-19T08:38:34+00:00"/>
           <total value="41"/>
           <offset value="0"/>
           <parameter>
@@ -100956,7 +100956,7 @@
         <title value="JDV ROR - Droit d'Exercice Complémentaire (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -100965,8 +100965,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:8b6a3902-955d-46a4-835c-47d83dfba9ae"/>
-          <timestamp value="2026-08-19T08:28:52+00:00"/>
+          <identifier value="urn:uuid:819b5d70-c78c-4616-b8e9-f5151af41047"/>
+          <timestamp value="2026-08-19T08:38:34+00:00"/>
           <total value="24"/>
           <offset value="0"/>
           <parameter>
@@ -101635,7 +101635,7 @@
         <title value="JDV ROR - Droit d'Exercice Complémentaire (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -101644,8 +101644,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:8b6a3902-955d-46a4-835c-47d83dfba9ae"/>
-          <timestamp value="2026-08-19T08:28:52+00:00"/>
+          <identifier value="urn:uuid:819b5d70-c78c-4616-b8e9-f5151af41047"/>
+          <timestamp value="2026-08-19T08:38:34+00:00"/>
           <total value="24"/>
           <offset value="0"/>
           <parameter>
@@ -106880,7 +106880,7 @@
         <title value="JDV ROR - Équipement (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -106889,8 +106889,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:e2abfc47-73cd-4b57-998c-f2e565ed6b14"/>
-          <timestamp value="2026-08-19T08:28:52+00:00"/>
+          <identifier value="urn:uuid:b4632917-6a25-4e56-a4d9-6114496a9fc0"/>
+          <timestamp value="2026-08-19T08:38:34+00:00"/>
           <total value="229"/>
           <offset value="0"/>
           <parameter>
@@ -113239,7 +113239,7 @@
         <title value="JDV ROR - Équipement (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -113248,8 +113248,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:e2abfc47-73cd-4b57-998c-f2e565ed6b14"/>
-          <timestamp value="2026-08-19T08:28:52+00:00"/>
+          <identifier value="urn:uuid:b4632917-6a25-4e56-a4d9-6114496a9fc0"/>
+          <timestamp value="2026-08-19T08:38:34+00:00"/>
           <total value="229"/>
           <offset value="0"/>
           <parameter>
@@ -114732,7 +114732,7 @@
         <title value="JDV ROR - Modalité Participation SPH / ESPIC (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -114741,8 +114741,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:bfea8233-701e-42e8-bb5f-dd13ca635832"/>
-          <timestamp value="2026-08-19T08:28:52+00:00"/>
+          <identifier value="urn:uuid:9a9bdaa7-3b6b-4942-9683-a8d09b5fea02"/>
+          <timestamp value="2026-08-19T08:38:34+00:00"/>
           <total value="9"/>
           <offset value="0"/>
           <parameter>
@@ -115030,7 +115030,7 @@
         <title value="JDV ROR - Modalité Participation SPH / ESPIC (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -115039,8 +115039,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:bfea8233-701e-42e8-bb5f-dd13ca635832"/>
-          <timestamp value="2026-08-19T08:28:52+00:00"/>
+          <identifier value="urn:uuid:9a9bdaa7-3b6b-4942-9683-a8d09b5fea02"/>
+          <timestamp value="2026-08-19T08:38:34+00:00"/>
           <total value="9"/>
           <offset value="0"/>
           <parameter>
@@ -116810,7 +116810,7 @@
         <title value="JDV ROR - Statut Juridique FINESS (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -116819,8 +116819,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:c27687f7-5a65-4140-bc62-d5f1f12b0206"/>
-          <timestamp value="2026-08-19T08:28:52+00:00"/>
+          <identifier value="urn:uuid:b076de27-75e3-41ee-ae88-e3ae4ecc1b36"/>
+          <timestamp value="2026-08-19T08:38:34+00:00"/>
           <total value="79"/>
           <offset value="0"/>
           <parameter>
@@ -118934,7 +118934,7 @@
         <title value="JDV ROR - Statut Juridique FINESS (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -118943,8 +118943,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:c27687f7-5a65-4140-bc62-d5f1f12b0206"/>
-          <timestamp value="2026-08-19T08:28:52+00:00"/>
+          <identifier value="urn:uuid:b076de27-75e3-41ee-ae88-e3ae4ecc1b36"/>
+          <timestamp value="2026-08-19T08:38:34+00:00"/>
           <total value="79"/>
           <offset value="0"/>
           <parameter>
@@ -119476,7 +119476,7 @@
         <title value="JDV ROR - Genre de Capacité (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -119485,8 +119485,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:ab511506-9999-4d81-9f41-d6ad8d0c35ac"/>
-          <timestamp value="2026-08-19T08:28:53+00:00"/>
+          <identifier value="urn:uuid:6a060aec-c501-405a-8f7f-2316315c4814"/>
+          <timestamp value="2026-08-19T08:38:34+00:00"/>
           <total value="4"/>
           <offset value="0"/>
           <parameter>
@@ -119651,7 +119651,7 @@
         <title value="JDV ROR - Genre de Capacité (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -119660,8 +119660,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:ab511506-9999-4d81-9f41-d6ad8d0c35ac"/>
-          <timestamp value="2026-08-19T08:28:53+00:00"/>
+          <identifier value="urn:uuid:6a060aec-c501-405a-8f7f-2316315c4814"/>
+          <timestamp value="2026-08-19T08:38:34+00:00"/>
           <total value="4"/>
           <offset value="0"/>
           <parameter>
@@ -120126,7 +120126,7 @@
         <title value="JDV ROR - Modalité d'Accueil (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -120135,8 +120135,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:cbe3273e-450a-4836-b5fb-af21df7aef7c"/>
-          <timestamp value="2026-08-19T08:28:53+00:00"/>
+          <identifier value="urn:uuid:cbc2fc7c-8c04-465c-8fb4-cee81aac9d35"/>
+          <timestamp value="2026-08-19T08:38:34+00:00"/>
           <total value="19"/>
           <offset value="0"/>
           <parameter>
@@ -120669,7 +120669,7 @@
         <title value="JDV ROR - Modalité d'Accueil (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -120678,8 +120678,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:cbe3273e-450a-4836-b5fb-af21df7aef7c"/>
-          <timestamp value="2026-08-19T08:28:53+00:00"/>
+          <identifier value="urn:uuid:cbc2fc7c-8c04-465c-8fb4-cee81aac9d35"/>
+          <timestamp value="2026-08-19T08:38:34+00:00"/>
           <total value="19"/>
           <offset value="0"/>
           <parameter>
@@ -120892,7 +120892,7 @@
         <title value="JDV ROR - Mode d'Exercice (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -120901,8 +120901,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:8f1f3449-d8fd-4c6f-a47a-4885774864a3"/>
-          <timestamp value="2026-08-19T08:28:53+00:00"/>
+          <identifier value="urn:uuid:f7769e7e-e037-4868-8539-8d7119e3da73"/>
+          <timestamp value="2026-08-19T08:38:34+00:00"/>
           <total value="3"/>
           <offset value="0"/>
           <parameter>
@@ -121044,7 +121044,7 @@
         <title value="JDV ROR - Mode d'Exercice (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -121053,8 +121053,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:8f1f3449-d8fd-4c6f-a47a-4885774864a3"/>
-          <timestamp value="2026-08-19T08:28:53+00:00"/>
+          <identifier value="urn:uuid:f7769e7e-e037-4868-8539-8d7119e3da73"/>
+          <timestamp value="2026-08-19T08:38:34+00:00"/>
           <total value="3"/>
           <offset value="0"/>
           <parameter>
@@ -121176,7 +121176,7 @@
         <title value="JDV ROR - Mode de Gestion (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -121185,8 +121185,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:f17fa9dd-5748-4878-9aa0-e68375bf9892"/>
-          <timestamp value="2026-08-19T08:28:53+00:00"/>
+          <identifier value="urn:uuid:2c3b4d90-b0f8-4a4a-9c9d-b42cfc417102"/>
+          <timestamp value="2026-08-19T08:38:34+00:00"/>
           <total value="2"/>
           <offset value="0"/>
           <parameter>
@@ -121303,7 +121303,7 @@
         <title value="JDV ROR - Mode de Gestion (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -121312,8 +121312,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:f17fa9dd-5748-4878-9aa0-e68375bf9892"/>
-          <timestamp value="2026-08-19T08:28:53+00:00"/>
+          <identifier value="urn:uuid:2c3b4d90-b0f8-4a4a-9c9d-b42cfc417102"/>
+          <timestamp value="2026-08-19T08:38:34+00:00"/>
           <total value="2"/>
           <offset value="0"/>
           <parameter>
@@ -122632,7 +122632,7 @@
         <title value="JDV ROR - Mode de Prise en Charge (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -122641,8 +122641,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:6e8469eb-3beb-4fa2-a8b6-d5ea479c85c7"/>
-          <timestamp value="2026-08-19T08:28:53+00:00"/>
+          <identifier value="urn:uuid:8dcea4f3-6547-468c-be57-e2ef4290ba99"/>
+          <timestamp value="2026-08-19T08:38:34+00:00"/>
           <total value="59"/>
           <offset value="0"/>
           <parameter>
@@ -124220,7 +124220,7 @@
         <title value="JDV ROR - Mode de Prise en Charge (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -124229,8 +124229,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:6e8469eb-3beb-4fa2-a8b6-d5ea479c85c7"/>
-          <timestamp value="2026-08-19T08:28:53+00:00"/>
+          <identifier value="urn:uuid:8dcea4f3-6547-468c-be57-e2ef4290ba99"/>
+          <timestamp value="2026-08-19T08:38:34+00:00"/>
           <total value="59"/>
           <offset value="0"/>
           <parameter>
@@ -124626,7 +124626,7 @@
         <title value="JDV ROR - Nature de Capacité (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -124635,8 +124635,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:d459188e-3164-40e0-b72f-2b065a1f8d52"/>
-          <timestamp value="2026-08-19T08:28:53+00:00"/>
+          <identifier value="urn:uuid:31067367-00f4-4b7b-8231-687515056926"/>
+          <timestamp value="2026-08-19T08:38:34+00:00"/>
           <total value="3"/>
           <offset value="0"/>
           <parameter>
@@ -124777,7 +124777,7 @@
         <title value="JDV ROR - Nature de Capacité (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -124786,8 +124786,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:d459188e-3164-40e0-b72f-2b065a1f8d52"/>
-          <timestamp value="2026-08-19T08:28:53+00:00"/>
+          <identifier value="urn:uuid:31067367-00f4-4b7b-8231-687515056926"/>
+          <timestamp value="2026-08-19T08:38:34+00:00"/>
           <total value="3"/>
           <offset value="0"/>
           <parameter>
@@ -124948,7 +124948,7 @@
         <title value="JDV ROR - Niveau Recours ORSAN (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -124957,8 +124957,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:beee022b-779d-4e96-bbb5-467476ad7300"/>
-          <timestamp value="2026-08-19T08:28:53+00:00"/>
+          <identifier value="urn:uuid:4d47f506-ad3b-4c44-9ed1-0cead92b3398"/>
+          <timestamp value="2026-08-19T08:38:34+00:00"/>
           <total value="4"/>
           <offset value="0"/>
           <parameter>
@@ -125123,7 +125123,7 @@
         <title value="JDV ROR - Niveau Recours ORSAN (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -125132,8 +125132,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:beee022b-779d-4e96-bbb5-467476ad7300"/>
-          <timestamp value="2026-08-19T08:28:53+00:00"/>
+          <identifier value="urn:uuid:4d47f506-ad3b-4c44-9ed1-0cead92b3398"/>
+          <timestamp value="2026-08-19T08:38:34+00:00"/>
           <total value="4"/>
           <offset value="0"/>
           <parameter>
@@ -125258,7 +125258,7 @@
         <title value="JDV ROR - Orientation Particulière (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -125267,8 +125267,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:f12e9f4b-62ea-46a5-9a57-e260e0cec8cf"/>
-          <timestamp value="2026-08-19T08:28:53+00:00"/>
+          <identifier value="urn:uuid:2a109301-6be0-404d-b1f8-e214e49cd107"/>
+          <timestamp value="2026-08-19T08:38:34+00:00"/>
           <total value="2"/>
           <offset value="0"/>
           <parameter>
@@ -125385,7 +125385,7 @@
         <title value="JDV ROR - Orientation Particulière (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -125394,8 +125394,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:f12e9f4b-62ea-46a5-9a57-e260e0cec8cf"/>
-          <timestamp value="2026-08-19T08:28:53+00:00"/>
+          <identifier value="urn:uuid:2a109301-6be0-404d-b1f8-e214e49cd107"/>
+          <timestamp value="2026-08-19T08:38:34+00:00"/>
           <total value="2"/>
           <offset value="0"/>
           <parameter>
@@ -125572,7 +125572,7 @@
         <title value="JDV ROR - Ouverture Annuelle (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -125581,8 +125581,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:c6db4b06-41b0-4724-8c8f-ac9685b22ded"/>
-          <timestamp value="2026-08-19T08:28:53+00:00"/>
+          <identifier value="urn:uuid:7e257b40-88df-439e-834e-3497dcd9f814"/>
+          <timestamp value="2026-08-19T08:38:34+00:00"/>
           <total value="5"/>
           <offset value="0"/>
           <parameter>
@@ -125776,7 +125776,7 @@
         <title value="JDV ROR - Ouverture Annuelle (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -125785,8 +125785,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:c6db4b06-41b0-4724-8c8f-ac9685b22ded"/>
-          <timestamp value="2026-08-19T08:28:53+00:00"/>
+          <identifier value="urn:uuid:7e257b40-88df-439e-834e-3497dcd9f814"/>
+          <timestamp value="2026-08-19T08:38:34+00:00"/>
           <total value="5"/>
           <offset value="0"/>
           <parameter>
@@ -126100,7 +126100,7 @@
         <title value="JDV ROR - Prestation Non Obligatoire Incluse (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -126109,8 +126109,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:473cf76a-0bc0-41aa-a697-6c18cb0a7a10"/>
-          <timestamp value="2026-08-19T08:28:53+00:00"/>
+          <identifier value="urn:uuid:71dabe01-965e-4754-887c-095af0694e9b"/>
+          <timestamp value="2026-08-19T08:38:34+00:00"/>
           <total value="11"/>
           <offset value="0"/>
           <parameter>
@@ -126444,7 +126444,7 @@
         <title value="JDV ROR - Prestation Non Obligatoire Incluse (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -126453,8 +126453,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:473cf76a-0bc0-41aa-a697-6c18cb0a7a10"/>
-          <timestamp value="2026-08-19T08:28:53+00:00"/>
+          <identifier value="urn:uuid:71dabe01-965e-4754-887c-095af0694e9b"/>
+          <timestamp value="2026-08-19T08:38:34+00:00"/>
           <total value="11"/>
           <offset value="0"/>
           <parameter>
@@ -127236,7 +127236,7 @@
         <title value="JDV ROR - Profession de Santé (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -127245,8 +127245,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:326ec2e1-985e-4b63-87fe-7b9898e6471b"/>
-          <timestamp value="2026-08-19T08:28:53+00:00"/>
+          <identifier value="urn:uuid:123b3422-a3d2-41d2-8945-6158162d78a8"/>
+          <timestamp value="2026-08-19T08:38:35+00:00"/>
           <total value="30"/>
           <offset value="0"/>
           <parameter>
@@ -128131,7 +128131,7 @@
         <title value="JDV ROR - Profession de Santé (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -128140,8 +128140,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:326ec2e1-985e-4b63-87fe-7b9898e6471b"/>
-          <timestamp value="2026-08-19T08:28:53+00:00"/>
+          <identifier value="urn:uuid:123b3422-a3d2-41d2-8945-6158162d78a8"/>
+          <timestamp value="2026-08-19T08:38:35+00:00"/>
           <total value="30"/>
           <offset value="0"/>
           <parameter>
@@ -128538,7 +128538,7 @@
         <title value="JDV ROR - Public Pris en Charge (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -128547,8 +128547,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:d3cfd829-330d-4805-95b5-3f8e3f72ea61"/>
-          <timestamp value="2026-08-19T08:28:53+00:00"/>
+          <identifier value="urn:uuid:5f41df12-faca-4945-ae11-4de60f8a7af1"/>
+          <timestamp value="2026-08-19T08:38:35+00:00"/>
           <total value="9"/>
           <offset value="0"/>
           <parameter>
@@ -128839,7 +128839,7 @@
         <title value="JDV ROR - Public Pris en Charge (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -128848,8 +128848,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:d3cfd829-330d-4805-95b5-3f8e3f72ea61"/>
-          <timestamp value="2026-08-19T08:28:53+00:00"/>
+          <identifier value="urn:uuid:5f41df12-faca-4945-ae11-4de60f8a7af1"/>
+          <timestamp value="2026-08-19T08:38:35+00:00"/>
           <total value="9"/>
           <offset value="0"/>
           <parameter>
@@ -128980,7 +128980,7 @@
         <title value="JDV ROR - Qualification PAC (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -128989,8 +128989,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:8ac348b0-3eed-4e2b-9a32-e22e79460c63"/>
-          <timestamp value="2026-08-19T08:28:53+00:00"/>
+          <identifier value="urn:uuid:26e2496c-5cc3-4f9c-b4a5-ca9d7f0fd20f"/>
+          <timestamp value="2026-08-19T08:38:35+00:00"/>
           <total value="1"/>
           <offset value="0"/>
           <parameter>
@@ -129084,7 +129084,7 @@
         <title value="JDV ROR - Qualification PAC (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -129093,8 +129093,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:8ac348b0-3eed-4e2b-9a32-e22e79460c63"/>
-          <timestamp value="2026-08-19T08:28:53+00:00"/>
+          <identifier value="urn:uuid:26e2496c-5cc3-4f9c-b4a5-ca9d7f0fd20f"/>
+          <timestamp value="2026-08-19T08:38:35+00:00"/>
           <total value="1"/>
           <offset value="0"/>
           <parameter>
@@ -129248,7 +129248,7 @@
         <title value="JDV ROR - Secteur Conventionnement (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -129257,8 +129257,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:82fa386a-a0a4-4f7b-b310-b31b8aa029de"/>
-          <timestamp value="2026-08-19T08:28:54+00:00"/>
+          <identifier value="urn:uuid:9e136749-0124-4e50-9d10-22364e47ad72"/>
+          <timestamp value="2026-08-19T08:38:35+00:00"/>
           <total value="4"/>
           <offset value="0"/>
           <parameter>
@@ -129424,7 +129424,7 @@
         <title value="JDV ROR - Secteur Conventionnement (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -129433,8 +129433,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:82fa386a-a0a4-4f7b-b310-b31b8aa029de"/>
-          <timestamp value="2026-08-19T08:28:54+00:00"/>
+          <identifier value="urn:uuid:9e136749-0124-4e50-9d10-22364e47ad72"/>
+          <timestamp value="2026-08-19T08:38:35+00:00"/>
           <total value="4"/>
           <offset value="0"/>
           <parameter>
@@ -130953,7 +130953,7 @@
         <title value="JDV ROR - Spécialisation de Prise en Charge (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -130962,8 +130962,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:a13f9a57-f028-495c-8522-96524078c221"/>
-          <timestamp value="2026-08-19T08:28:54+00:00"/>
+          <identifier value="urn:uuid:658b174d-e6ce-46f6-89eb-c4e1f3064812"/>
+          <timestamp value="2026-08-19T08:38:35+00:00"/>
           <total value="68"/>
           <offset value="0"/>
           <parameter>
@@ -132757,7 +132757,7 @@
         <title value="JDV ROR - Spécialisation de Prise en Charge (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -132766,8 +132766,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:a13f9a57-f028-495c-8522-96524078c221"/>
-          <timestamp value="2026-08-19T08:28:54+00:00"/>
+          <identifier value="urn:uuid:658b174d-e6ce-46f6-89eb-c4e1f3064812"/>
+          <timestamp value="2026-08-19T08:38:35+00:00"/>
           <total value="68"/>
           <offset value="0"/>
           <parameter>
@@ -135378,7 +135378,7 @@
         <title value="JDV ROR - Spécialité Ordinale (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -135387,8 +135387,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:bd99430c-76d7-4a84-ac04-3493f8499d4d"/>
-          <timestamp value="2026-08-19T08:28:54+00:00"/>
+          <identifier value="urn:uuid:16fcb273-aadc-4a40-aeab-b5643e806b69"/>
+          <timestamp value="2026-08-19T08:38:35+00:00"/>
           <total value="107"/>
           <offset value="0"/>
           <parameter>
@@ -138242,7 +138242,7 @@
         <title value="JDV ROR - Spécialité Ordinale (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -138251,8 +138251,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:bd99430c-76d7-4a84-ac04-3493f8499d4d"/>
-          <timestamp value="2026-08-19T08:28:54+00:00"/>
+          <identifier value="urn:uuid:16fcb273-aadc-4a40-aeab-b5643e806b69"/>
+          <timestamp value="2026-08-19T08:38:35+00:00"/>
           <total value="107"/>
           <offset value="0"/>
           <parameter>
@@ -139376,7 +139376,7 @@
         <title value="JDV ROR - Surspécialité Transversale (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -139385,8 +139385,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:550c45de-f36e-4c2a-9075-a28d0d669c33"/>
-          <timestamp value="2026-08-19T08:28:54+00:00"/>
+          <identifier value="urn:uuid:3d073367-99af-4163-9afd-407e0972550a"/>
+          <timestamp value="2026-08-19T08:38:35+00:00"/>
           <total value="26"/>
           <offset value="0"/>
           <parameter>
@@ -140092,7 +140092,7 @@
         <title value="JDV ROR - Surspécialité Transversale (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -140101,8 +140101,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:550c45de-f36e-4c2a-9075-a28d0d669c33"/>
-          <timestamp value="2026-08-19T08:28:54+00:00"/>
+          <identifier value="urn:uuid:3d073367-99af-4163-9afd-407e0972550a"/>
+          <timestamp value="2026-08-19T08:38:35+00:00"/>
           <total value="26"/>
           <offset value="0"/>
           <parameter>
@@ -140328,7 +140328,7 @@
         <title value="JDV ROR - Temporalité d'Accueil (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -140337,8 +140337,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:ba5c04d4-6a00-4f6e-b9aa-d82a158ea6bb"/>
-          <timestamp value="2026-08-19T08:28:54+00:00"/>
+          <identifier value="urn:uuid:c16104dc-9587-412f-b6f3-18dc231ab79e"/>
+          <timestamp value="2026-08-19T08:38:35+00:00"/>
           <total value="2"/>
           <offset value="0"/>
           <parameter>
@@ -140455,7 +140455,7 @@
         <title value="JDV ROR - Temporalité d'Accueil (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -140464,8 +140464,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:ba5c04d4-6a00-4f6e-b9aa-d82a158ea6bb"/>
-          <timestamp value="2026-08-19T08:28:54+00:00"/>
+          <identifier value="urn:uuid:c16104dc-9587-412f-b6f3-18dc231ab79e"/>
+          <timestamp value="2026-08-19T08:38:35+00:00"/>
           <total value="2"/>
           <offset value="0"/>
           <parameter>
@@ -140582,7 +140582,7 @@
         <title value="JDV ROR - Type de Crise (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -140591,8 +140591,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:ebbf5b9e-6505-4136-9279-8228c077e111"/>
-          <timestamp value="2026-08-19T08:28:55+00:00"/>
+          <identifier value="urn:uuid:641baf20-82d4-44d8-b828-dd3e24e960cd"/>
+          <timestamp value="2026-08-19T08:38:35+00:00"/>
           <total value="2"/>
           <offset value="0"/>
           <parameter>
@@ -140710,7 +140710,7 @@
         <title value="JDV ROR - Type de Crise (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -140719,8 +140719,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:ebbf5b9e-6505-4136-9279-8228c077e111"/>
-          <timestamp value="2026-08-19T08:28:55+00:00"/>
+          <identifier value="urn:uuid:641baf20-82d4-44d8-b828-dd3e24e960cd"/>
+          <timestamp value="2026-08-19T08:38:35+00:00"/>
           <total value="2"/>
           <offset value="0"/>
           <parameter>
@@ -140858,7 +140858,7 @@
         <title value="JDV ROR - Type de Fermeture de Capacité (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -140867,8 +140867,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:944dbe4a-c1a2-46cc-b9ff-e4d4be1a6aac"/>
-          <timestamp value="2026-08-19T08:28:55+00:00"/>
+          <identifier value="urn:uuid:30b6fb8d-8563-4668-9192-97b357466f75"/>
+          <timestamp value="2026-08-19T08:38:35+00:00"/>
           <total value="3"/>
           <offset value="0"/>
           <parameter>
@@ -141009,7 +141009,7 @@
         <title value="JDV ROR - Type de Fermeture de Capacité (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -141018,8 +141018,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:944dbe4a-c1a2-46cc-b9ff-e4d4be1a6aac"/>
-          <timestamp value="2026-08-19T08:28:55+00:00"/>
+          <identifier value="urn:uuid:30b6fb8d-8563-4668-9192-97b357466f75"/>
+          <timestamp value="2026-08-19T08:38:35+00:00"/>
           <total value="3"/>
           <offset value="0"/>
           <parameter>
@@ -141240,7 +141240,7 @@
         <title value="JDV ROR - Type d'Habitation (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -141249,8 +141249,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:721c431b-8a60-4325-b824-d50914cc4ee5"/>
-          <timestamp value="2026-08-19T08:28:55+00:00"/>
+          <identifier value="urn:uuid:678f240c-9846-4fc0-b909-6f95f0718375"/>
+          <timestamp value="2026-08-19T08:38:35+00:00"/>
           <total value="7"/>
           <offset value="0"/>
           <parameter>
@@ -141487,7 +141487,7 @@
         <title value="JDV ROR - Type d'Habitation (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -141496,8 +141496,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:721c431b-8a60-4325-b824-d50914cc4ee5"/>
-          <timestamp value="2026-08-19T08:28:55+00:00"/>
+          <identifier value="urn:uuid:678f240c-9846-4fc0-b909-6f95f0718375"/>
+          <timestamp value="2026-08-19T08:38:35+00:00"/>
           <total value="7"/>
           <offset value="0"/>
           <parameter>
@@ -141654,7 +141654,7 @@
         <title value="JDV ROR - Type de Lit Supplémentaire (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -141663,8 +141663,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:88bde66e-8507-4500-8c87-a0d11afb7f03"/>
-          <timestamp value="2026-08-19T08:28:55+00:00"/>
+          <identifier value="urn:uuid:2d1a7808-fe6d-4c0a-b88f-ead2e33b8e8f"/>
+          <timestamp value="2026-08-19T08:38:35+00:00"/>
           <total value="3"/>
           <offset value="0"/>
           <parameter>
@@ -141807,7 +141807,7 @@
         <title value="JDV ROR - Type de Lit Supplémentaire (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -141816,8 +141816,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:88bde66e-8507-4500-8c87-a0d11afb7f03"/>
-          <timestamp value="2026-08-19T08:28:55+00:00"/>
+          <identifier value="urn:uuid:2d1a7808-fe6d-4c0a-b88f-ead2e33b8e8f"/>
+          <timestamp value="2026-08-19T08:38:35+00:00"/>
           <total value="3"/>
           <offset value="0"/>
           <parameter>
@@ -141980,7 +141980,7 @@
         <title value="JDV ROR - Type Organisation Interne (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -141989,8 +141989,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:b3c95070-2b2e-458a-a6fe-fb8766a2510a"/>
-          <timestamp value="2026-08-19T08:28:55+00:00"/>
+          <identifier value="urn:uuid:8cc46abf-11bc-4f47-96f5-70ad72360c1c"/>
+          <timestamp value="2026-08-19T08:38:35+00:00"/>
           <total value="4"/>
           <offset value="0"/>
           <parameter>
@@ -142157,7 +142157,7 @@
         <title value="JDV ROR - Type Organisation Interne (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -142166,8 +142166,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:b3c95070-2b2e-458a-a6fe-fb8766a2510a"/>
-          <timestamp value="2026-08-19T08:28:55+00:00"/>
+          <identifier value="urn:uuid:8cc46abf-11bc-4f47-96f5-70ad72360c1c"/>
+          <timestamp value="2026-08-19T08:38:35+00:00"/>
           <total value="4"/>
           <offset value="0"/>
           <parameter>
@@ -142509,7 +142509,7 @@
         <title value="JDV ROR - Type de Savoir-Faire (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -142518,8 +142518,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:95ebf6a4-a86d-4915-87fc-fe4a0eaebe94"/>
-          <timestamp value="2026-08-19T08:28:55+00:00"/>
+          <identifier value="urn:uuid:907bcef7-72a8-49fd-8c3b-56ded055a74f"/>
+          <timestamp value="2026-08-19T08:38:35+00:00"/>
           <total value="12"/>
           <offset value="0"/>
           <parameter>
@@ -142895,7 +142895,7 @@
         <title value="JDV ROR - Type de Savoir-Faire (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -142904,8 +142904,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:95ebf6a4-a86d-4915-87fc-fe4a0eaebe94"/>
-          <timestamp value="2026-08-19T08:28:55+00:00"/>
+          <identifier value="urn:uuid:907bcef7-72a8-49fd-8c3b-56ded055a74f"/>
+          <timestamp value="2026-08-19T08:38:35+00:00"/>
           <total value="12"/>
           <offset value="0"/>
           <parameter>
@@ -143166,7 +143166,7 @@
         <title value="JDV ROR - Type de Tarif (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -143175,8 +143175,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:c258228c-7355-4977-baa1-387b6a3ea446"/>
-          <timestamp value="2026-08-19T08:28:55+00:00"/>
+          <identifier value="urn:uuid:bebb5423-ddfd-41c9-bd3e-e8aed7df74f7"/>
+          <timestamp value="2026-08-19T08:38:35+00:00"/>
           <total value="7"/>
           <offset value="0"/>
           <parameter>
@@ -143415,7 +143415,7 @@
         <title value="JDV ROR - Type de Tarif (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -143424,8 +143424,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:c258228c-7355-4977-baa1-387b6a3ea446"/>
-          <timestamp value="2026-08-19T08:28:55+00:00"/>
+          <identifier value="urn:uuid:bebb5423-ddfd-41c9-bd3e-e8aed7df74f7"/>
+          <timestamp value="2026-08-19T08:38:35+00:00"/>
           <total value="7"/>
           <offset value="0"/>
           <parameter>
@@ -143604,7 +143604,7 @@
         <title value="JDV ROR - Unité de Prix (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -143613,8 +143613,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:7c195121-99fb-4b7e-902b-c3476393dbaf"/>
-          <timestamp value="2026-08-19T08:28:55+00:00"/>
+          <identifier value="urn:uuid:6af2416f-3801-4b6e-b9aa-13342ddd1446"/>
+          <timestamp value="2026-08-19T08:38:35+00:00"/>
           <total value="4"/>
           <offset value="0"/>
           <parameter>
@@ -143779,7 +143779,7 @@
         <title value="JDV ROR - Unité de Prix (provisoire)"/>
         <status value="draft"/>
         <experimental value="true"/>
-        <date value="2026-08-19T08:27:13+00:00"/>
+        <date value="2026-08-19T08:37:25+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -143788,8 +143788,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:7c195121-99fb-4b7e-902b-c3476393dbaf"/>
-          <timestamp value="2026-08-19T08:28:55+00:00"/>
+          <identifier value="urn:uuid:6af2416f-3801-4b6e-b9aa-13342ddd1446"/>
+          <timestamp value="2026-08-19T08:38:35+00:00"/>
           <total value="4"/>
           <offset value="0"/>
           <parameter>
