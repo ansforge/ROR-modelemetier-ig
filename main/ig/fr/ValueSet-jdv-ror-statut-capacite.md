@@ -35,7 +35,7 @@ No Expansion for this valueset (Unknown Code System)
   "title" : "JDV ROR - Statut de Capacité (provisoire)",
   "status" : "draft",
   "experimental" : true,
-  "date" : "2026-08-19T08:37:25+00:00",
+  "date" : "2026-09-15T16:15:11+00:00",
   "publisher" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",
   "contact" : [{
     "name" : "Agence du Numérique en Santé (ANS) - 2-10 Rue d'Oradour-sur-Glane, 75015 Paris",

@@ -3,17 +3,17 @@
 ## Pages
 
 * [Introduction](index.md)
-* [Organisation](organisation.md)
-* [Classes Communes](classes-communes.md)
 * [Offre Opérationnelle](offre-operationnelle.md)
-* [Professionnel Ressource](professionnel.md)
-* [Historique des versions](change-log.md)
-* [Ressources Opérationnelles](ressources-operationnelles.md)
-* [Structure](structure.md)
-* [Résumé des artefacts](artifacts.md)
-* [Tarif](tarif.md)
-* [Règles de gestion](regles-de-gestion.md)
 * [Pourquoi le Modèle Logique HL7 ?](avantages-ml.md)
+* [Tarif](tarif.md)
+* [Structure](structure.md)
+* [Organisation](organisation.md)
+* [Historique des versions](change-log.md)
+* [Règles de gestion](regles-de-gestion.md)
+* [Professionnel Ressource](professionnel.md)
+* [Ressources Opérationnelles](ressources-operationnelles.md)
+* [Résumé des artefacts](artifacts.md)
+* [Classes Communes](classes-communes.md)
 
 ## Resources
 

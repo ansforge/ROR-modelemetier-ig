@@ -1,8 +1,8 @@
 {
   "resourceType" : "Bundle",
-  "id" : "e90bb15c-5f0b-4389-ac91-3ba8f1623f29",
+  "id" : "6b83ad0c-1bdf-4afb-8b05-40a7cc3a1d82",
   "meta" : {
-    "lastUpdated" : "2026-08-19T08:37:25.694+00:00"
+    "lastUpdated" : "2026-09-15T16:15:11.074+00:00"
   },
   "type" : "collection",
   "entry" : [{
@@ -19,7 +19,7 @@
       "title" : "JDV ROR - Accessibilité Lieu (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -28,8 +28,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:73fad9e4-fc5d-4b79-8e52-cb6e60be426c",
-        "timestamp" : "2026-08-19T08:38:32+00:00",
+        "identifier" : "urn:uuid:4938961e-dfa2-446f-8c7b-cd97a7c5ef7b",
+        "timestamp" : "2026-09-15T16:16:42+00:00",
         "total" : 6,
         "offset" : 0,
         "parameter" : [{
@@ -97,7 +97,7 @@
       "title" : "JDV ROR - Accessibilité Lieu (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -106,8 +106,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:73fad9e4-fc5d-4b79-8e52-cb6e60be426c",
-        "timestamp" : "2026-08-19T08:38:32+00:00",
+        "identifier" : "urn:uuid:3abf6539-85f2-4ae6-adf7-cf0a173c918e",
+        "timestamp" : "2026-09-15T16:16:42+00:00",
         "total" : 6,
         "offset" : 0,
         "parameter" : [{
@@ -175,7 +175,7 @@
       "title" : "JDV ROR - Acte Spécifique (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -184,8 +184,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:ba0af254-a0fc-4c5c-9f53-1a9993054cf5",
-        "timestamp" : "2026-08-19T08:38:32+00:00",
+        "identifier" : "urn:uuid:0781dfff-7c58-4093-8b23-0bfbd5083448",
+        "timestamp" : "2026-09-15T16:16:42+00:00",
         "total" : 1537,
         "offset" : 0,
         "parameter" : [{
@@ -6560,7 +6560,7 @@
       "title" : "JDV ROR - Acte Spécifique (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -6569,8 +6569,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:ba0af254-a0fc-4c5c-9f53-1a9993054cf5",
-        "timestamp" : "2026-08-19T08:38:32+00:00",
+        "identifier" : "urn:uuid:d5ffdab2-395b-4f7c-b118-a5a2ea81a168",
+        "timestamp" : "2026-09-15T16:16:42+00:00",
         "total" : 1537,
         "offset" : 0,
         "parameter" : [{
@@ -12945,7 +12945,7 @@
       "title" : "JDV ROR - Activité Opérationnelle (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -12954,8 +12954,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:c729764f-b8f0-4c87-a46e-8fabf8dcd211",
-        "timestamp" : "2026-08-19T08:38:33+00:00",
+        "identifier" : "urn:uuid:e335f232-dd3c-4c9f-93e3-5ab6d9589f39",
+        "timestamp" : "2026-09-15T16:16:42+00:00",
         "total" : 592,
         "offset" : 0,
         "parameter" : [{
@@ -15728,7 +15728,7 @@
       "title" : "JDV ROR - Activité Opérationnelle (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -15737,8 +15737,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:c729764f-b8f0-4c87-a46e-8fabf8dcd211",
-        "timestamp" : "2026-08-19T08:38:33+00:00",
+        "identifier" : "urn:uuid:a1a94965-d8b9-4d0e-ac0d-761818001192",
+        "timestamp" : "2026-09-15T16:16:43+00:00",
         "total" : 592,
         "offset" : 0,
         "parameter" : [{
@@ -18511,7 +18511,7 @@
       "title" : "JDV ROR - Affectation Temporaire (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -18520,8 +18520,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:508a569b-13e2-4303-8860-405e1ed0d254",
-        "timestamp" : "2026-08-19T08:38:33+00:00",
+        "identifier" : "urn:uuid:30def64f-1560-41cd-bbcd-983236647abd",
+        "timestamp" : "2026-09-15T16:16:43+00:00",
         "total" : 3,
         "offset" : 0,
         "parameter" : [{
@@ -18573,7 +18573,7 @@
       "title" : "JDV ROR - Affectation Temporaire (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -18582,8 +18582,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:508a569b-13e2-4303-8860-405e1ed0d254",
-        "timestamp" : "2026-08-19T08:38:33+00:00",
+        "identifier" : "urn:uuid:56bf3e03-9f24-40f6-aeab-cb16c5b38401",
+        "timestamp" : "2026-09-15T16:16:43+00:00",
         "total" : 3,
         "offset" : 0,
         "parameter" : [{
@@ -18635,7 +18635,7 @@
       "title" : "JDV ROR - Agrégat Statut Juridique Niv2 (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -18644,8 +18644,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:a28ed9bd-094b-4efa-b41a-896769c0b4f7",
-        "timestamp" : "2026-08-19T08:38:33+00:00",
+        "identifier" : "urn:uuid:246acc02-8b44-4fcd-b2c8-48fc730ccae1",
+        "timestamp" : "2026-09-15T16:16:43+00:00",
         "total" : 5,
         "offset" : 0,
         "parameter" : [{
@@ -18709,7 +18709,7 @@
       "title" : "JDV ROR - Agrégat Statut Juridique Niv2 (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -18718,8 +18718,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:a28ed9bd-094b-4efa-b41a-896769c0b4f7",
-        "timestamp" : "2026-08-19T08:38:33+00:00",
+        "identifier" : "urn:uuid:2b88c077-59f9-4921-b645-9d379b36f86d",
+        "timestamp" : "2026-09-15T16:16:43+00:00",
         "total" : 5,
         "offset" : 0,
         "parameter" : [{
@@ -18783,7 +18783,7 @@
       "title" : "JDV ROR - Aide Financière (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -18792,8 +18792,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:aba83fc3-3387-4ef5-aee3-4f708208ef4e",
-        "timestamp" : "2026-08-19T08:38:33+00:00",
+        "identifier" : "urn:uuid:c5669359-caea-436f-af5d-7aa206388392",
+        "timestamp" : "2026-09-15T16:16:43+00:00",
         "total" : 3,
         "offset" : 0,
         "parameter" : [{
@@ -18847,7 +18847,7 @@
       "title" : "JDV ROR - Aide Financière (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -18856,8 +18856,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:aba83fc3-3387-4ef5-aee3-4f708208ef4e",
-        "timestamp" : "2026-08-19T08:38:33+00:00",
+        "identifier" : "urn:uuid:64e233e1-47f2-4c33-ad30-ff110fcce3ee",
+        "timestamp" : "2026-09-15T16:16:43+00:00",
         "total" : 3,
         "offset" : 0,
         "parameter" : [{
@@ -18911,7 +18911,7 @@
       "title" : "JDV ROR - Capacité de Savoir-Faire (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -18920,8 +18920,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:a28b455f-39a5-4c57-83eb-1811a0ba8c86",
-        "timestamp" : "2026-08-19T08:38:33+00:00",
+        "identifier" : "urn:uuid:2993328b-6445-4b33-b5d3-9a25dc0b73c2",
+        "timestamp" : "2026-09-15T16:16:43+00:00",
         "total" : 16,
         "offset" : 0,
         "parameter" : [{
@@ -19041,7 +19041,7 @@
       "title" : "JDV ROR - Capacité de Savoir-Faire (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -19050,8 +19050,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:a28b455f-39a5-4c57-83eb-1811a0ba8c86",
-        "timestamp" : "2026-08-19T08:38:33+00:00",
+        "identifier" : "urn:uuid:9ba27bf8-2797-418a-a632-9008b48e7952",
+        "timestamp" : "2026-09-15T16:16:43+00:00",
         "total" : 16,
         "offset" : 0,
         "parameter" : [{
@@ -19171,7 +19171,7 @@
       "title" : "JDV ROR - Champ d'Activité (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -19180,8 +19180,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:845d09bc-625e-4787-b511-8a34abd819d5",
-        "timestamp" : "2026-08-19T08:38:33+00:00",
+        "identifier" : "urn:uuid:2073e774-6794-4b75-82bc-9c74af03131e",
+        "timestamp" : "2026-09-15T16:16:43+00:00",
         "total" : 5,
         "offset" : 0,
         "parameter" : [{
@@ -19245,7 +19245,7 @@
       "title" : "JDV ROR - Champ d'Activité (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -19254,8 +19254,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:845d09bc-625e-4787-b511-8a34abd819d5",
-        "timestamp" : "2026-08-19T08:38:33+00:00",
+        "identifier" : "urn:uuid:a4bce70f-7ca3-4ab0-99a4-7043c90a71da",
+        "timestamp" : "2026-09-15T16:16:43+00:00",
         "total" : 5,
         "offset" : 0,
         "parameter" : [{
@@ -19319,7 +19319,7 @@
       "title" : "JDV ROR - Civilité d'Exercice (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -19328,8 +19328,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:6b956bd5-a47a-425e-945c-fe52225bd2ed",
-        "timestamp" : "2026-08-19T08:38:33+00:00",
+        "identifier" : "urn:uuid:80591240-fb4c-4f82-b903-738c82dbd6ab",
+        "timestamp" : "2026-09-15T16:16:43+00:00",
         "total" : 6,
         "offset" : 0,
         "parameter" : [{
@@ -19393,7 +19393,7 @@
       "title" : "JDV ROR - Civilité d'Exercice (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -19402,8 +19402,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:6b956bd5-a47a-425e-945c-fe52225bd2ed",
-        "timestamp" : "2026-08-19T08:38:33+00:00",
+        "identifier" : "urn:uuid:109fd502-842e-4483-9a78-12f2028991e1",
+        "timestamp" : "2026-09-15T16:16:43+00:00",
         "total" : 6,
         "offset" : 0,
         "parameter" : [{
@@ -19467,7 +19467,7 @@
       "title" : "JDV ROR - Civilité (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -19476,8 +19476,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:27790758-262d-410c-ac2c-74b6a30f23c5",
-        "timestamp" : "2026-08-19T08:38:33+00:00",
+        "identifier" : "urn:uuid:e2b54835-33b8-410a-a2dd-995f0ba1219d",
+        "timestamp" : "2026-09-15T16:16:43+00:00",
         "total" : 3,
         "offset" : 0,
         "parameter" : [{
@@ -19529,7 +19529,7 @@
       "title" : "JDV ROR - Civilité (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -19538,8 +19538,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:27790758-262d-410c-ac2c-74b6a30f23c5",
-        "timestamp" : "2026-08-19T08:38:33+00:00",
+        "identifier" : "urn:uuid:97932b76-3931-433d-b145-0caac041bdca",
+        "timestamp" : "2026-09-15T16:16:43+00:00",
         "total" : 3,
         "offset" : 0,
         "parameter" : [{
@@ -19591,7 +19591,7 @@
       "title" : "JDV ROR - Compétence Exclusive (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -19600,8 +19600,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:ae5e6be3-eb73-476e-9480-06d84043dfae",
-        "timestamp" : "2026-08-19T08:38:33+00:00",
+        "identifier" : "urn:uuid:7ee9ffbf-8443-41de-97b1-593b8544666d",
+        "timestamp" : "2026-09-15T16:16:43+00:00",
         "total" : 4,
         "offset" : 0,
         "parameter" : [{
@@ -19661,7 +19661,7 @@
       "title" : "JDV ROR - Compétence Exclusive (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -19670,8 +19670,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:ae5e6be3-eb73-476e-9480-06d84043dfae",
-        "timestamp" : "2026-08-19T08:38:33+00:00",
+        "identifier" : "urn:uuid:d0d603ab-40f5-42bd-a68a-8d71fb376e89",
+        "timestamp" : "2026-09-15T16:16:43+00:00",
         "total" : 4,
         "offset" : 0,
         "parameter" : [{
@@ -19731,7 +19731,7 @@
       "title" : "JDV ROR - Compétence Spécifique (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -19740,8 +19740,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:6923d43e-4a30-414f-8ac1-acde56d82dd8",
-        "timestamp" : "2026-08-19T08:38:33+00:00",
+        "identifier" : "urn:uuid:cbeb7c86-0b2a-4c0b-a25d-44b718bd854a",
+        "timestamp" : "2026-09-15T16:16:43+00:00",
         "total" : 61,
         "offset" : 0,
         "parameter" : [{
@@ -20052,7 +20052,7 @@
       "title" : "JDV ROR - Compétence Spécifique (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -20061,8 +20061,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:6923d43e-4a30-414f-8ac1-acde56d82dd8",
-        "timestamp" : "2026-08-19T08:38:33+00:00",
+        "identifier" : "urn:uuid:6a9a4dfa-6af8-417c-9fc3-5325d3782b4e",
+        "timestamp" : "2026-09-15T16:16:43+00:00",
         "total" : 61,
         "offset" : 0,
         "parameter" : [{
@@ -20373,7 +20373,7 @@
       "title" : "JDV ROR - Compétence (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -20382,8 +20382,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:276f1a93-93d7-43b4-85b5-e9a5de5c0aec",
-        "timestamp" : "2026-08-19T08:38:34+00:00",
+        "identifier" : "urn:uuid:4c1c9754-274e-4021-a978-25bf2fa107f1",
+        "timestamp" : "2026-09-15T16:16:43+00:00",
         "total" : 43,
         "offset" : 0,
         "parameter" : [{
@@ -20638,7 +20638,7 @@
       "title" : "JDV ROR - Compétence (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -20647,8 +20647,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:276f1a93-93d7-43b4-85b5-e9a5de5c0aec",
-        "timestamp" : "2026-08-19T08:38:34+00:00",
+        "identifier" : "urn:uuid:d6814ff5-c067-4c61-b0b2-6235bcb3cb9e",
+        "timestamp" : "2026-09-15T16:16:43+00:00",
         "total" : 43,
         "offset" : 0,
         "parameter" : [{
@@ -20903,7 +20903,7 @@
       "title" : "JDV ROR - Condition Tarifaire (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -20912,8 +20912,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:ce45d65f-7a52-4ba0-9ac6-c4f42cf70e81",
-        "timestamp" : "2026-08-19T08:38:34+00:00",
+        "identifier" : "urn:uuid:ecf19ee3-4f84-41d4-a493-224d64e456e2",
+        "timestamp" : "2026-09-15T16:16:43+00:00",
         "total" : 3,
         "offset" : 0,
         "parameter" : [{
@@ -20965,7 +20965,7 @@
       "title" : "JDV ROR - Condition Tarifaire (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -20974,8 +20974,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:ce45d65f-7a52-4ba0-9ac6-c4f42cf70e81",
-        "timestamp" : "2026-08-19T08:38:34+00:00",
+        "identifier" : "urn:uuid:d1e78413-05b1-4382-8fa0-ec2b958f8964",
+        "timestamp" : "2026-09-15T16:16:43+00:00",
         "total" : 3,
         "offset" : 0,
         "parameter" : [{
@@ -21027,7 +21027,7 @@
       "title" : "JDV ROR - DESC Non Qualifiant (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -21036,8 +21036,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:453f3062-258e-4b30-a9e2-142f92ea50ec",
-        "timestamp" : "2026-08-19T08:38:34+00:00",
+        "identifier" : "urn:uuid:b02c93c3-4b96-4660-a2e1-0e7fa3c2eab3",
+        "timestamp" : "2026-09-15T16:16:43+00:00",
         "total" : 41,
         "offset" : 0,
         "parameter" : [{
@@ -21282,7 +21282,7 @@
       "title" : "JDV ROR - DESC Non Qualifiant (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -21291,8 +21291,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:453f3062-258e-4b30-a9e2-142f92ea50ec",
-        "timestamp" : "2026-08-19T08:38:34+00:00",
+        "identifier" : "urn:uuid:09aa1623-83d1-4ddf-8dcb-f867aa35e711",
+        "timestamp" : "2026-09-15T16:16:43+00:00",
         "total" : 41,
         "offset" : 0,
         "parameter" : [{
@@ -21537,7 +21537,7 @@
       "title" : "JDV ROR - Droit d'Exercice Complémentaire (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -21546,8 +21546,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:819b5d70-c78c-4616-b8e9-f5151af41047",
-        "timestamp" : "2026-08-19T08:38:34+00:00",
+        "identifier" : "urn:uuid:2e97ce92-17ef-4d17-b71a-080da3d12673",
+        "timestamp" : "2026-09-15T16:16:43+00:00",
         "total" : 24,
         "offset" : 0,
         "parameter" : [{
@@ -21707,7 +21707,7 @@
       "title" : "JDV ROR - Droit d'Exercice Complémentaire (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -21716,8 +21716,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:819b5d70-c78c-4616-b8e9-f5151af41047",
-        "timestamp" : "2026-08-19T08:38:34+00:00",
+        "identifier" : "urn:uuid:e07d374b-498c-4225-8ff5-27292ffa760f",
+        "timestamp" : "2026-09-15T16:16:43+00:00",
         "total" : 24,
         "offset" : 0,
         "parameter" : [{
@@ -21877,7 +21877,7 @@
       "title" : "JDV ROR - Équipement (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -21886,8 +21886,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:b4632917-6a25-4e56-a4d9-6114496a9fc0",
-        "timestamp" : "2026-08-19T08:38:34+00:00",
+        "identifier" : "urn:uuid:b6a18702-18b9-42f4-922b-6f8b2f0b2074",
+        "timestamp" : "2026-09-15T16:16:43+00:00",
         "total" : 229,
         "offset" : 0,
         "parameter" : [{
@@ -23161,7 +23161,7 @@
       "title" : "JDV ROR - Équipement (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -23170,8 +23170,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:b4632917-6a25-4e56-a4d9-6114496a9fc0",
-        "timestamp" : "2026-08-19T08:38:34+00:00",
+        "identifier" : "urn:uuid:70e07373-f871-41b4-a682-b48ab834e260",
+        "timestamp" : "2026-09-15T16:16:43+00:00",
         "total" : 229,
         "offset" : 0,
         "parameter" : [{
@@ -24445,7 +24445,7 @@
       "title" : "JDV ROR - Modalité Participation SPH / ESPIC (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -24454,8 +24454,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:9a9bdaa7-3b6b-4942-9683-a8d09b5fea02",
-        "timestamp" : "2026-08-19T08:38:34+00:00",
+        "identifier" : "urn:uuid:c23b5e64-6900-408e-aa96-cc551c363868",
+        "timestamp" : "2026-09-15T16:16:43+00:00",
         "total" : 9,
         "offset" : 0,
         "parameter" : [{
@@ -24534,7 +24534,7 @@
       "title" : "JDV ROR - Modalité Participation SPH / ESPIC (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -24543,8 +24543,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:9a9bdaa7-3b6b-4942-9683-a8d09b5fea02",
-        "timestamp" : "2026-08-19T08:38:34+00:00",
+        "identifier" : "urn:uuid:8fcd9f0d-c455-430e-8df2-628825c934cb",
+        "timestamp" : "2026-09-15T16:16:43+00:00",
         "total" : 9,
         "offset" : 0,
         "parameter" : [{
@@ -24623,7 +24623,7 @@
       "title" : "JDV ROR - Statut Juridique FINESS (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -24632,8 +24632,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:b076de27-75e3-41ee-ae88-e3ae4ecc1b36",
-        "timestamp" : "2026-08-19T08:38:34+00:00",
+        "identifier" : "urn:uuid:9b6feedd-7688-4fa3-ba28-e2822ad81a09",
+        "timestamp" : "2026-09-15T16:16:43+00:00",
         "total" : 79,
         "offset" : 0,
         "parameter" : [{
@@ -25056,7 +25056,7 @@
       "title" : "JDV ROR - Statut Juridique FINESS (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -25065,8 +25065,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:b076de27-75e3-41ee-ae88-e3ae4ecc1b36",
-        "timestamp" : "2026-08-19T08:38:34+00:00",
+        "identifier" : "urn:uuid:6ddfe9ef-4e35-4d18-8290-350cf265f8f6",
+        "timestamp" : "2026-09-15T16:16:44+00:00",
         "total" : 79,
         "offset" : 0,
         "parameter" : [{
@@ -25489,7 +25489,7 @@
       "title" : "JDV ROR - Genre de Capacité (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -25498,8 +25498,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:6a060aec-c501-405a-8f7f-2316315c4814",
-        "timestamp" : "2026-08-19T08:38:34+00:00",
+        "identifier" : "urn:uuid:d0d73480-43c9-413a-8607-eafeeeca0580",
+        "timestamp" : "2026-09-15T16:16:44+00:00",
         "total" : 4,
         "offset" : 0,
         "parameter" : [{
@@ -25555,7 +25555,7 @@
       "title" : "JDV ROR - Genre de Capacité (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -25564,8 +25564,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:6a060aec-c501-405a-8f7f-2316315c4814",
-        "timestamp" : "2026-08-19T08:38:34+00:00",
+        "identifier" : "urn:uuid:bfbdc37d-7f9a-4545-9aca-ab80e7bb2d52",
+        "timestamp" : "2026-09-15T16:16:44+00:00",
         "total" : 4,
         "offset" : 0,
         "parameter" : [{
@@ -25621,7 +25621,7 @@
       "title" : "JDV ROR - Modalité d'Accueil (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -25630,8 +25630,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:cbc2fc7c-8c04-465c-8fb4-cee81aac9d35",
-        "timestamp" : "2026-08-19T08:38:34+00:00",
+        "identifier" : "urn:uuid:ae614b90-69a9-4e55-9ee3-44ef9c764dfe",
+        "timestamp" : "2026-09-15T16:16:44+00:00",
         "total" : 19,
         "offset" : 0,
         "parameter" : [{
@@ -25755,7 +25755,7 @@
       "title" : "JDV ROR - Modalité d'Accueil (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -25764,8 +25764,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:cbc2fc7c-8c04-465c-8fb4-cee81aac9d35",
-        "timestamp" : "2026-08-19T08:38:34+00:00",
+        "identifier" : "urn:uuid:3fa99143-2cd9-497a-911c-d598b063fe1b",
+        "timestamp" : "2026-09-15T16:16:44+00:00",
         "total" : 19,
         "offset" : 0,
         "parameter" : [{
@@ -25889,7 +25889,7 @@
       "title" : "JDV ROR - Mode d'Exercice (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -25898,8 +25898,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:f7769e7e-e037-4868-8539-8d7119e3da73",
-        "timestamp" : "2026-08-19T08:38:34+00:00",
+        "identifier" : "urn:uuid:025f652a-3348-48ef-8daf-4732f0218e46",
+        "timestamp" : "2026-09-15T16:16:44+00:00",
         "total" : 3,
         "offset" : 0,
         "parameter" : [{
@@ -25952,7 +25952,7 @@
       "title" : "JDV ROR - Mode d'Exercice (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -25961,8 +25961,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:f7769e7e-e037-4868-8539-8d7119e3da73",
-        "timestamp" : "2026-08-19T08:38:34+00:00",
+        "identifier" : "urn:uuid:883a0af4-fa74-46cc-ae48-d93406b05241",
+        "timestamp" : "2026-09-15T16:16:44+00:00",
         "total" : 3,
         "offset" : 0,
         "parameter" : [{
@@ -26015,7 +26015,7 @@
       "title" : "JDV ROR - Mode de Gestion (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -26024,8 +26024,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:2c3b4d90-b0f8-4a4a-9c9d-b42cfc417102",
-        "timestamp" : "2026-08-19T08:38:34+00:00",
+        "identifier" : "urn:uuid:24c2cb20-6ce0-45b7-9f3d-a6dc996104fb",
+        "timestamp" : "2026-09-15T16:16:44+00:00",
         "total" : 2,
         "offset" : 0,
         "parameter" : [{
@@ -26073,7 +26073,7 @@
       "title" : "JDV ROR - Mode de Gestion (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -26082,8 +26082,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:2c3b4d90-b0f8-4a4a-9c9d-b42cfc417102",
-        "timestamp" : "2026-08-19T08:38:34+00:00",
+        "identifier" : "urn:uuid:a108cc36-d227-420d-be5a-47e8bffe74e2",
+        "timestamp" : "2026-09-15T16:16:44+00:00",
         "total" : 2,
         "offset" : 0,
         "parameter" : [{
@@ -26131,7 +26131,7 @@
       "title" : "JDV ROR - Mode de Prise en Charge (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -26140,8 +26140,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:8dcea4f3-6547-468c-be57-e2ef4290ba99",
-        "timestamp" : "2026-08-19T08:38:34+00:00",
+        "identifier" : "urn:uuid:5c445691-7d06-4112-93ca-9f886ab5a91f",
+        "timestamp" : "2026-09-15T16:16:44+00:00",
         "total" : 59,
         "offset" : 0,
         "parameter" : [{
@@ -26448,7 +26448,7 @@
       "title" : "JDV ROR - Mode de Prise en Charge (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -26457,8 +26457,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:8dcea4f3-6547-468c-be57-e2ef4290ba99",
-        "timestamp" : "2026-08-19T08:38:34+00:00",
+        "identifier" : "urn:uuid:2159ce26-bfc0-4ea5-9532-b860a81c007f",
+        "timestamp" : "2026-09-15T16:16:44+00:00",
         "total" : 59,
         "offset" : 0,
         "parameter" : [{
@@ -26765,7 +26765,7 @@
       "title" : "JDV ROR - Nature de Capacité (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -26774,8 +26774,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:31067367-00f4-4b7b-8231-687515056926",
-        "timestamp" : "2026-08-19T08:38:34+00:00",
+        "identifier" : "urn:uuid:df016ed1-5c54-43c0-9d73-5605e360e90b",
+        "timestamp" : "2026-09-15T16:16:44+00:00",
         "total" : 3,
         "offset" : 0,
         "parameter" : [{
@@ -26827,7 +26827,7 @@
       "title" : "JDV ROR - Nature de Capacité (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -26836,8 +26836,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:31067367-00f4-4b7b-8231-687515056926",
-        "timestamp" : "2026-08-19T08:38:34+00:00",
+        "identifier" : "urn:uuid:7f27902a-90e6-45ce-8c3e-be7c9536647d",
+        "timestamp" : "2026-09-15T16:16:44+00:00",
         "total" : 3,
         "offset" : 0,
         "parameter" : [{
@@ -26889,7 +26889,7 @@
       "title" : "JDV ROR - Niveau Recours ORSAN (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -26898,8 +26898,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:4d47f506-ad3b-4c44-9ed1-0cead92b3398",
-        "timestamp" : "2026-08-19T08:38:34+00:00",
+        "identifier" : "urn:uuid:d700828b-9671-473b-8ad1-483d14c5e99f",
+        "timestamp" : "2026-09-15T16:16:44+00:00",
         "total" : 4,
         "offset" : 0,
         "parameter" : [{
@@ -26955,7 +26955,7 @@
       "title" : "JDV ROR - Niveau Recours ORSAN (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -26964,8 +26964,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:4d47f506-ad3b-4c44-9ed1-0cead92b3398",
-        "timestamp" : "2026-08-19T08:38:34+00:00",
+        "identifier" : "urn:uuid:6318cef5-1ab5-44bb-9e45-cfee48f16a28",
+        "timestamp" : "2026-09-15T16:16:44+00:00",
         "total" : 4,
         "offset" : 0,
         "parameter" : [{
@@ -27021,7 +27021,7 @@
       "title" : "JDV ROR - Orientation Particulière (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -27030,8 +27030,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:2a109301-6be0-404d-b1f8-e214e49cd107",
-        "timestamp" : "2026-08-19T08:38:34+00:00",
+        "identifier" : "urn:uuid:d1907e61-401f-49bf-846f-b0994697cafe",
+        "timestamp" : "2026-09-15T16:16:44+00:00",
         "total" : 2,
         "offset" : 0,
         "parameter" : [{
@@ -27079,7 +27079,7 @@
       "title" : "JDV ROR - Orientation Particulière (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -27088,8 +27088,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:2a109301-6be0-404d-b1f8-e214e49cd107",
-        "timestamp" : "2026-08-19T08:38:34+00:00",
+        "identifier" : "urn:uuid:9737dddb-d225-4cec-aa6b-2f380ed07ebd",
+        "timestamp" : "2026-09-15T16:16:44+00:00",
         "total" : 2,
         "offset" : 0,
         "parameter" : [{
@@ -27137,7 +27137,7 @@
       "title" : "JDV ROR - Ouverture Annuelle (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -27146,8 +27146,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:7e257b40-88df-439e-834e-3497dcd9f814",
-        "timestamp" : "2026-08-19T08:38:34+00:00",
+        "identifier" : "urn:uuid:2ba591e7-309a-4ea0-8852-95466981ca9d",
+        "timestamp" : "2026-09-15T16:16:44+00:00",
         "total" : 5,
         "offset" : 0,
         "parameter" : [{
@@ -27212,7 +27212,7 @@
       "title" : "JDV ROR - Ouverture Annuelle (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -27221,8 +27221,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:7e257b40-88df-439e-834e-3497dcd9f814",
-        "timestamp" : "2026-08-19T08:38:34+00:00",
+        "identifier" : "urn:uuid:86b2c401-40b5-4f29-a103-84d3ecb09c74",
+        "timestamp" : "2026-09-15T16:16:44+00:00",
         "total" : 5,
         "offset" : 0,
         "parameter" : [{
@@ -27287,7 +27287,7 @@
       "title" : "JDV ROR - Prestation Non Obligatoire Incluse (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -27296,8 +27296,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:71dabe01-965e-4754-887c-095af0694e9b",
-        "timestamp" : "2026-08-19T08:38:34+00:00",
+        "identifier" : "urn:uuid:a4e98bcb-b96a-49bb-afd3-79eed84b704d",
+        "timestamp" : "2026-09-15T16:16:44+00:00",
         "total" : 11,
         "offset" : 0,
         "parameter" : [{
@@ -27382,7 +27382,7 @@
       "title" : "JDV ROR - Prestation Non Obligatoire Incluse (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -27391,8 +27391,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:71dabe01-965e-4754-887c-095af0694e9b",
-        "timestamp" : "2026-08-19T08:38:34+00:00",
+        "identifier" : "urn:uuid:df886cf2-82e6-48b8-9519-be8c7c7e4a9e",
+        "timestamp" : "2026-09-15T16:16:44+00:00",
         "total" : 11,
         "offset" : 0,
         "parameter" : [{
@@ -27477,7 +27477,7 @@
       "title" : "JDV ROR - Profession de Santé (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -27486,8 +27486,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:123b3422-a3d2-41d2-8945-6158162d78a8",
-        "timestamp" : "2026-08-19T08:38:35+00:00",
+        "identifier" : "urn:uuid:683f9724-0f02-4f97-855a-12a3514116c2",
+        "timestamp" : "2026-09-15T16:16:44+00:00",
         "total" : 30,
         "offset" : 0,
         "parameter" : [{
@@ -27675,7 +27675,7 @@
       "title" : "JDV ROR - Profession de Santé (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -27684,8 +27684,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:123b3422-a3d2-41d2-8945-6158162d78a8",
-        "timestamp" : "2026-08-19T08:38:35+00:00",
+        "identifier" : "urn:uuid:60a4970c-79a5-4bb8-b389-3f1f3ae2d249",
+        "timestamp" : "2026-09-15T16:16:44+00:00",
         "total" : 30,
         "offset" : 0,
         "parameter" : [{
@@ -27873,7 +27873,7 @@
       "title" : "JDV ROR - Public Pris en Charge (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -27882,8 +27882,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:5f41df12-faca-4945-ae11-4de60f8a7af1",
-        "timestamp" : "2026-08-19T08:38:35+00:00",
+        "identifier" : "urn:uuid:abb49c8a-fced-4279-a452-8019be665c99",
+        "timestamp" : "2026-09-15T16:16:44+00:00",
         "total" : 9,
         "offset" : 0,
         "parameter" : [{
@@ -27965,7 +27965,7 @@
       "title" : "JDV ROR - Public Pris en Charge (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -27974,8 +27974,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:5f41df12-faca-4945-ae11-4de60f8a7af1",
-        "timestamp" : "2026-08-19T08:38:35+00:00",
+        "identifier" : "urn:uuid:6500fe9c-7eb3-40a8-aa22-f1790516ed57",
+        "timestamp" : "2026-09-15T16:16:44+00:00",
         "total" : 9,
         "offset" : 0,
         "parameter" : [{
@@ -28057,7 +28057,7 @@
       "title" : "JDV ROR - Qualification PAC (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -28066,8 +28066,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:26e2496c-5cc3-4f9c-b4a5-ca9d7f0fd20f",
-        "timestamp" : "2026-08-19T08:38:35+00:00",
+        "identifier" : "urn:uuid:4793e9a2-710f-4b58-912b-cb82ec8d0c33",
+        "timestamp" : "2026-09-15T16:16:44+00:00",
         "total" : 1,
         "offset" : 0,
         "parameter" : [{
@@ -28112,7 +28112,7 @@
       "title" : "JDV ROR - Qualification PAC (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -28121,8 +28121,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:26e2496c-5cc3-4f9c-b4a5-ca9d7f0fd20f",
-        "timestamp" : "2026-08-19T08:38:35+00:00",
+        "identifier" : "urn:uuid:8451f271-c77c-43f6-8cf8-e6d00288fcce",
+        "timestamp" : "2026-09-15T16:16:44+00:00",
         "total" : 1,
         "offset" : 0,
         "parameter" : [{
@@ -28167,7 +28167,7 @@
       "title" : "JDV ROR - Secteur Conventionnement (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -28176,8 +28176,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:9e136749-0124-4e50-9d10-22364e47ad72",
-        "timestamp" : "2026-08-19T08:38:35+00:00",
+        "identifier" : "urn:uuid:f164a42b-51d1-4ff8-9a9d-c215ccf7e569",
+        "timestamp" : "2026-09-15T16:16:44+00:00",
         "total" : 4,
         "offset" : 0,
         "parameter" : [{
@@ -28234,7 +28234,7 @@
       "title" : "JDV ROR - Secteur Conventionnement (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -28243,8 +28243,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:9e136749-0124-4e50-9d10-22364e47ad72",
-        "timestamp" : "2026-08-19T08:38:35+00:00",
+        "identifier" : "urn:uuid:534a867e-99d5-4783-a612-8a1e6dd3dfd9",
+        "timestamp" : "2026-09-15T16:16:45+00:00",
         "total" : 4,
         "offset" : 0,
         "parameter" : [{
@@ -28301,7 +28301,7 @@
       "title" : "JDV ROR - Spécialisation de Prise en Charge (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -28310,8 +28310,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:658b174d-e6ce-46f6-89eb-c4e1f3064812",
-        "timestamp" : "2026-08-19T08:38:35+00:00",
+        "identifier" : "urn:uuid:7e079bb9-c788-41ef-8347-5ca938c4b081",
+        "timestamp" : "2026-09-15T16:16:45+00:00",
         "total" : 68,
         "offset" : 0,
         "parameter" : [{
@@ -28643,7 +28643,7 @@
       "title" : "JDV ROR - Spécialisation de Prise en Charge (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -28652,8 +28652,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:658b174d-e6ce-46f6-89eb-c4e1f3064812",
-        "timestamp" : "2026-08-19T08:38:35+00:00",
+        "identifier" : "urn:uuid:05a6ac81-6201-46fa-b032-f34b2560a39e",
+        "timestamp" : "2026-09-15T16:16:45+00:00",
         "total" : 68,
         "offset" : 0,
         "parameter" : [{
@@ -28985,7 +28985,7 @@
       "title" : "JDV ROR - Spécialité Ordinale (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -28994,8 +28994,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:16fcb273-aadc-4a40-aeab-b5643e806b69",
-        "timestamp" : "2026-08-19T08:38:35+00:00",
+        "identifier" : "urn:uuid:1b512da5-e96f-422b-8431-3f49d30c525c",
+        "timestamp" : "2026-09-15T16:16:45+00:00",
         "total" : 107,
         "offset" : 0,
         "parameter" : [{
@@ -29570,7 +29570,7 @@
       "title" : "JDV ROR - Spécialité Ordinale (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -29579,8 +29579,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:16fcb273-aadc-4a40-aeab-b5643e806b69",
-        "timestamp" : "2026-08-19T08:38:35+00:00",
+        "identifier" : "urn:uuid:c88e1bd7-f79b-45c6-bf17-c9dc52f64cee",
+        "timestamp" : "2026-09-15T16:16:45+00:00",
         "total" : 107,
         "offset" : 0,
         "parameter" : [{
@@ -30155,7 +30155,7 @@
       "title" : "JDV ROR - Surspécialité Transversale (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -30164,8 +30164,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:3d073367-99af-4163-9afd-407e0972550a",
-        "timestamp" : "2026-08-19T08:38:35+00:00",
+        "identifier" : "urn:uuid:7e866391-5e0c-4907-954e-29cd374698f6",
+        "timestamp" : "2026-09-15T16:16:45+00:00",
         "total" : 26,
         "offset" : 0,
         "parameter" : [{
@@ -30322,7 +30322,7 @@
       "title" : "JDV ROR - Surspécialité Transversale (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -30331,8 +30331,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:3d073367-99af-4163-9afd-407e0972550a",
-        "timestamp" : "2026-08-19T08:38:35+00:00",
+        "identifier" : "urn:uuid:2dc04d76-6d7b-4b57-a600-90a927cd10a6",
+        "timestamp" : "2026-09-15T16:16:45+00:00",
         "total" : 26,
         "offset" : 0,
         "parameter" : [{
@@ -30489,7 +30489,7 @@
       "title" : "JDV ROR - Temporalité d'Accueil (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -30498,8 +30498,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:c16104dc-9587-412f-b6f3-18dc231ab79e",
-        "timestamp" : "2026-08-19T08:38:35+00:00",
+        "identifier" : "urn:uuid:710cdec4-3b4d-4435-a70d-b21a5293033b",
+        "timestamp" : "2026-09-15T16:16:45+00:00",
         "total" : 2,
         "offset" : 0,
         "parameter" : [{
@@ -30547,7 +30547,7 @@
       "title" : "JDV ROR - Temporalité d'Accueil (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -30556,8 +30556,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:c16104dc-9587-412f-b6f3-18dc231ab79e",
-        "timestamp" : "2026-08-19T08:38:35+00:00",
+        "identifier" : "urn:uuid:ce064303-d656-494b-b316-1de0c83c99b1",
+        "timestamp" : "2026-09-15T16:16:45+00:00",
         "total" : 2,
         "offset" : 0,
         "parameter" : [{
@@ -30605,7 +30605,7 @@
       "title" : "JDV ROR - Type de Crise (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -30614,8 +30614,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:641baf20-82d4-44d8-b828-dd3e24e960cd",
-        "timestamp" : "2026-08-19T08:38:35+00:00",
+        "identifier" : "urn:uuid:faa2a599-2a62-4d64-8f48-32e36ac0908b",
+        "timestamp" : "2026-09-15T16:16:45+00:00",
         "total" : 2,
         "offset" : 0,
         "parameter" : [{
@@ -30664,7 +30664,7 @@
       "title" : "JDV ROR - Type de Crise (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -30673,8 +30673,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:641baf20-82d4-44d8-b828-dd3e24e960cd",
-        "timestamp" : "2026-08-19T08:38:35+00:00",
+        "identifier" : "urn:uuid:8190a997-4209-4c49-9c08-888ca762661f",
+        "timestamp" : "2026-09-15T16:16:46+00:00",
         "total" : 2,
         "offset" : 0,
         "parameter" : [{
@@ -30723,7 +30723,7 @@
       "title" : "JDV ROR - Type de Fermeture de Capacité (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -30732,8 +30732,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:30b6fb8d-8563-4668-9192-97b357466f75",
-        "timestamp" : "2026-08-19T08:38:35+00:00",
+        "identifier" : "urn:uuid:b2aa7466-f84a-48b6-8544-2a1a5e8de80a",
+        "timestamp" : "2026-09-15T16:16:46+00:00",
         "total" : 3,
         "offset" : 0,
         "parameter" : [{
@@ -30785,7 +30785,7 @@
       "title" : "JDV ROR - Type de Fermeture de Capacité (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -30794,8 +30794,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:30b6fb8d-8563-4668-9192-97b357466f75",
-        "timestamp" : "2026-08-19T08:38:35+00:00",
+        "identifier" : "urn:uuid:9e2c69eb-8daa-43bb-a184-cb3a4488100d",
+        "timestamp" : "2026-09-15T16:16:46+00:00",
         "total" : 3,
         "offset" : 0,
         "parameter" : [{
@@ -30847,7 +30847,7 @@
       "title" : "JDV ROR - Type d'Habitation (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -30856,8 +30856,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:678f240c-9846-4fc0-b909-6f95f0718375",
-        "timestamp" : "2026-08-19T08:38:35+00:00",
+        "identifier" : "urn:uuid:f9c946dd-4834-4b33-83cf-bb18ed3068f7",
+        "timestamp" : "2026-09-15T16:16:46+00:00",
         "total" : 7,
         "offset" : 0,
         "parameter" : [{
@@ -30925,7 +30925,7 @@
       "title" : "JDV ROR - Type d'Habitation (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -30934,8 +30934,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:678f240c-9846-4fc0-b909-6f95f0718375",
-        "timestamp" : "2026-08-19T08:38:35+00:00",
+        "identifier" : "urn:uuid:69b2216a-3334-495b-b81d-ab019fecc653",
+        "timestamp" : "2026-09-15T16:16:46+00:00",
         "total" : 7,
         "offset" : 0,
         "parameter" : [{
@@ -31003,7 +31003,7 @@
       "title" : "JDV ROR - Type de Lit Supplémentaire (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -31012,8 +31012,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:2d1a7808-fe6d-4c0a-b88f-ead2e33b8e8f",
-        "timestamp" : "2026-08-19T08:38:35+00:00",
+        "identifier" : "urn:uuid:6399812b-ace6-4777-a484-7f9fc2a9e482",
+        "timestamp" : "2026-09-15T16:16:46+00:00",
         "total" : 3,
         "offset" : 0,
         "parameter" : [{
@@ -31067,7 +31067,7 @@
       "title" : "JDV ROR - Type de Lit Supplémentaire (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -31076,8 +31076,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:2d1a7808-fe6d-4c0a-b88f-ead2e33b8e8f",
-        "timestamp" : "2026-08-19T08:38:35+00:00",
+        "identifier" : "urn:uuid:4fd06f79-5292-446f-9b6d-bc6c5a30c0b1",
+        "timestamp" : "2026-09-15T16:16:46+00:00",
         "total" : 3,
         "offset" : 0,
         "parameter" : [{
@@ -31131,7 +31131,7 @@
       "title" : "JDV ROR - Type Organisation Interne (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -31140,8 +31140,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:8cc46abf-11bc-4f47-96f5-70ad72360c1c",
-        "timestamp" : "2026-08-19T08:38:35+00:00",
+        "identifier" : "urn:uuid:243eea59-921a-443a-aba5-17257bacb7cb",
+        "timestamp" : "2026-09-15T16:16:46+00:00",
         "total" : 4,
         "offset" : 0,
         "parameter" : [{
@@ -31199,7 +31199,7 @@
       "title" : "JDV ROR - Type Organisation Interne (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -31208,8 +31208,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:8cc46abf-11bc-4f47-96f5-70ad72360c1c",
-        "timestamp" : "2026-08-19T08:38:35+00:00",
+        "identifier" : "urn:uuid:e4bd2c52-ca6e-4983-b1c5-5f6057d53852",
+        "timestamp" : "2026-09-15T16:16:46+00:00",
         "total" : 4,
         "offset" : 0,
         "parameter" : [{
@@ -31267,7 +31267,7 @@
       "title" : "JDV ROR - Type de Savoir-Faire (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -31276,8 +31276,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:907bcef7-72a8-49fd-8c3b-56ded055a74f",
-        "timestamp" : "2026-08-19T08:38:35+00:00",
+        "identifier" : "urn:uuid:5c87f0b5-a8c6-4bb7-b365-526d0abf595a",
+        "timestamp" : "2026-09-15T16:16:46+00:00",
         "total" : 12,
         "offset" : 0,
         "parameter" : [{
@@ -31369,7 +31369,7 @@
       "title" : "JDV ROR - Type de Savoir-Faire (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -31378,8 +31378,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:907bcef7-72a8-49fd-8c3b-56ded055a74f",
-        "timestamp" : "2026-08-19T08:38:35+00:00",
+        "identifier" : "urn:uuid:35aaa253-9318-4c0f-b6ee-285a6108dc6c",
+        "timestamp" : "2026-09-15T16:16:46+00:00",
         "total" : 12,
         "offset" : 0,
         "parameter" : [{
@@ -31471,7 +31471,7 @@
       "title" : "JDV ROR - Type de Tarif (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -31480,8 +31480,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:bebb5423-ddfd-41c9-bd3e-e8aed7df74f7",
-        "timestamp" : "2026-08-19T08:38:35+00:00",
+        "identifier" : "urn:uuid:ff2fd985-6b8a-4089-836f-be9a33058515",
+        "timestamp" : "2026-09-15T16:16:46+00:00",
         "total" : 7,
         "offset" : 0,
         "parameter" : [{
@@ -31551,7 +31551,7 @@
       "title" : "JDV ROR - Type de Tarif (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -31560,8 +31560,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:bebb5423-ddfd-41c9-bd3e-e8aed7df74f7",
-        "timestamp" : "2026-08-19T08:38:35+00:00",
+        "identifier" : "urn:uuid:1e2ae698-65ea-452d-9661-c898531af57f",
+        "timestamp" : "2026-09-15T16:16:46+00:00",
         "total" : 7,
         "offset" : 0,
         "parameter" : [{
@@ -31631,7 +31631,7 @@
       "title" : "JDV ROR - Unité de Prix (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -31640,8 +31640,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:6af2416f-3801-4b6e-b9aa-13342ddd1446",
-        "timestamp" : "2026-08-19T08:38:35+00:00",
+        "identifier" : "urn:uuid:a8b99e12-b1c5-434f-9b64-5ab152521c49",
+        "timestamp" : "2026-09-15T16:16:46+00:00",
         "total" : 4,
         "offset" : 0,
         "parameter" : [{
@@ -31697,7 +31697,7 @@
       "title" : "JDV ROR - Unité de Prix (provisoire)",
       "status" : "draft",
       "experimental" : true,
-      "date" : "2026-08-19T08:37:25+00:00",
+      "date" : "2026-09-15T16:15:11+00:00",
       "jurisdiction" : [{
         "coding" : [{
           "system" : "urn:iso:std:iso:3166",
@@ -31706,8 +31706,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:6af2416f-3801-4b6e-b9aa-13342ddd1446",
-        "timestamp" : "2026-08-19T08:38:35+00:00",
+        "identifier" : "urn:uuid:aa2db9be-be8a-4409-9f3d-265ad837f769",
+        "timestamp" : "2026-09-15T16:16:46+00:00",
         "total" : 4,
         "offset" : 0,
         "parameter" : [{
